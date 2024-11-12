@@ -3,14 +3,7 @@
 ![Go Version](https://img.shields.io/badge/Go-1.22.4-yellow.svg)
 [![License](https://img.shields.io/badge/License-MGPL%20v1.5-green.svg)](/Licensing/Mizumoto.General.Public.License.v1.5.md)
 
-A Go template repository with MGPL License and workflow.
-
-After creating a new repository from this template, you should update the following:
-
-- [ ] `go.mod` file with the correct module name
-- [ ] You must keep the `LICENSE` file and the `Licensing` folder as the license requires it
-  - And all the files from this template repository are governed by the Mizumoto General Public License
-- [ ] Setup a `codecov` token in the repository secrets from <https://app.codecov.io/>.
+A Go control flow tool for daily use.
 
 ## Table of Contents
 
