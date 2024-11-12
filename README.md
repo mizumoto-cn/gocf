@@ -1,4 +1,4 @@
-# go-template
+# gocf
 
 ![Go Version](https://img.shields.io/badge/Go-1.22.4-yellow.svg)
 [![License](https://img.shields.io/badge/License-MGPL%20v1.5-green.svg)](/Licensing/Mizumoto.General.Public.License.v1.5.md)
@@ -7,7 +7,7 @@ A Go control flow tool for daily use.
 
 ## Table of Contents
 
-- [go-template](#go-template)
+- [gocf](#gocf)
   - [Table of Contents](#table-of-contents)
   - [Documentation](#documentation)
   - [Milestones](#milestones)
