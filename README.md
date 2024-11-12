@@ -1,6 +1,6 @@
 # gocf
 
-![Go Version](https://img.shields.io/badge/Go-1.22.4-yellow.svg)
+![Go Version](https://img.shields.io/badge/Go-1.23.3-yellow.svg)
 [![License](https://img.shields.io/badge/License-MGPL%20v1.5-green.svg)](/Licensing/Mizumoto.General.Public.License.v1.5.md)
 
 A Go control flow tool for daily use.
